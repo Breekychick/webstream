@@ -1,0 +1,14 @@
+{
+    "title": "Shrek",
+    "description": "An epic action-packed adventure of a misunderstood ogre on a quest to rescue a princess.",
+    "filename": "shrek.mp4",
+    "thumbnail": "thumbnails/shrek.png",
+    "quality": "720p",
+    "actors": ["Mike Myers", "Eddie Murphy", "Cameron Diaz"],
+    "directors": ["Andrew Adamson", "Vicky Jenson"],
+    "category": "action",
+    "duration": "1h 30m",
+    "logo": "images/logo.png",         
+    "screenshot": "images/screenshot.jpg",
+    "url": "https://pixeldrain.com/api/file/erPd7p2S"
+}
