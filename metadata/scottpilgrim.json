@@ -1,0 +1,11 @@
+{
+    "title": "Scott Pilgrim vs. The World",
+    "description": "A slacker musician must battle his new girlfriend's seven evil exes to win her heart in this action-packed, comedic adventure.",
+    "filename": "videos/scott_pilgrim.mp4",
+    "thumbnail": "thumbnails/scottpilgrim.jpg",
+    "quality": "HD",
+    "actors": ["Michael Cera", "Mary Elizabeth Winstead", "Kieran Culkin", "Chris Evans", "Brie Larson", "Jason Schwartzman"],
+    "directors": ["Edgar Wright"],
+    "category": "action, comedy, romance",
+    "duration": "1h 52m"
+}

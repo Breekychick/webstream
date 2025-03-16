@@ -1,0 +1,11 @@
+{
+    "title": "The Fall Guy",
+    "description": "An action-comedy about a former stuntman drawn into a conspiracy while working on his ex-girlfriend's film.",
+    "filename": "the_fall_guy.mkv",
+    "thumbnail": "thumbnails/the_fall_guy.png",
+    "quality": "1080p",
+    "actors": ["Ryan Gosling", "Emily Blunt", "Aaron Taylor-Johnson", "Hannah Waddingham", "Teresa Palmer", "Stephanie Hsu", "Winston Duke"],
+    "directors": ["David Leitch"],
+    "category": "Comedy",
+    "duration": "2h 6m"
+}

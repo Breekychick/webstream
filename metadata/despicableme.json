@@ -1,0 +1,11 @@
+{
+    "title": "Despicable Me",
+    "description": "A supervillain adopts three girls and begins to question his life choices while planning to steal the moon.",
+    "filename": "despicable_me.mp4",
+    "thumbnail": "thumbnails/despicable_me.jpg",
+    "quality": "HD",
+    "actors": ["Steve Carell", "Jason Segel", "Russell Brand", "Miranda Cosgrove", "Julie Andrews"],
+    "directors": ["Pierre Coffin", "Chris Renaud"],
+    "category": "animation, comedy, family",
+    "duration": "1h 35m"
+}

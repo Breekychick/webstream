@@ -1,0 +1,11 @@
+{
+    "title": "Bee Movie",
+    "description": "A talking bee sues humanity after discovering they have been stealing honey from bees for centuries.",
+    "filename": "bee_movie.mp4",
+    "thumbnail": "thumbnails/bee_movie.jpg",
+    "quality": "HD",
+    "actors": ["Jerry Seinfeld", "Renée Zellweger", "Matthew Broderick", "John Goodman", "Chris Rock"],
+    "directors": ["Simon J. Smith", "Steve Hickner"],
+    "category": "animation, comedy, family",
+    "duration": "1h 31m"
+}

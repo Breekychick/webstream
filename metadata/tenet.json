@@ -1,0 +1,11 @@
+{
+    "title": "Tenet",
+    "description": "A secret agent embarks on a time-bending mission to prevent the end of the world using the mysterious art of inversion.",
+    "filename": "videos/tenet.mp4",
+    "thumbnail": "thumbnails/tenet.jpg",
+    "quality": "4K",
+    "actors": ["John David Washington", "Robert Pattinson", "Elizabeth Debicki", "Kenneth Branagh", "Dimple Kapadia"],
+    "directors": ["Christopher Nolan"],
+    "category": "action, sci-fi, thriller",
+    "duration": "2h 30m"
+}
